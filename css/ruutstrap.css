@@ -1,0 +1,9 @@
+﻿.card-img-top{width:100%;height:auto;}
+.page-item.active .page-link{border-color:#FB6D40;background-color:#FB6D40;}
+.card-title{margin-bottom:0rem;font-size:14px;text-align:left;}
+.card-body{padding:0.5rem;flex:1 1 auto;}
+.description{font-size:14px;text-align:left;}
+@media screen and (max-width:1000px){.nomobile{visibility:hidden;clear:both;float:right;margin:5px auto;width:22%;height:auto;display:none;//onemli olan nokta burasi burayi kaldirirsaniz sadece mobile icin goruntulenir.}
+}
+@media screen and (min-width:1000px){.nodesktop{visibility:hidden;clear:both;float:right;margin:5px auto;width:22%;height:auto;display:none;//onemli olan nokta burasi burayi kaldirirsaniz sadece mobile icin goruntulenir.}
+}
